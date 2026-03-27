@@ -1,0 +1,12 @@
+{
+  "crons": [
+    {
+      "path": "/api/scan?mode=session",
+      "schedule": "*/2 * * * *"
+    },
+    {
+      "path": "/api/scan?mode=offhours",
+      "schedule": "*/5 * * * *"
+    }
+  ]
+}

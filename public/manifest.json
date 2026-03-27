@@ -1,0 +1,9 @@
+{
+  "name": "Balu — Market Intelligence",
+  "short_name": "Balu",
+  "description": "Real-time market sentiment alerts powered by AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090f",
+  "theme_color": "#09090f"
+}
