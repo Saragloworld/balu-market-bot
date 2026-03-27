@@ -1,6 +1,6 @@
 # \u{1F916} BALU — Market Intelligence Bot
 
-Real-time news sentiment alerts for XAUUSD, BTCUSD, EURUSD, USDJPY, AAPL, TSLA.
+Real-time news sentiment alerts for XAUUSD, BTCUSD, EURUSD, USDJPY, AAPL, TSLA. 
 
 ## Features
 - Scans news every 2-5 minutes using Claude AI + web search
